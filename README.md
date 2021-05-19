@@ -1,2 +1,2 @@
-# Project32-create-own-game
-Drag the ball to hit the blocks
+# p5.play-boilerplate
+Boiler plate for p5.play
